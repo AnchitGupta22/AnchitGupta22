@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gupta.anchit.99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11L53I4Be9wcJSHfNh2fbq-zfni6-G3Ey/view?usp=sharing](https://drive.google.com/file/d/11L53I4Be9wcJSHfNh2fbq-zfni6-G3Ey/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ks66hqE8r4sy9tWI0URb-JtcE78FeF5V/view?usp=sharing](https://drive.google.com/file/d/1ks66hqE8r4sy9tWI0URb-JtcE78FeF5V/view?usp=sharing)
 
 - ⚡ Fun fact **I am good at sketching and digital art. I do original pieces as well as fan arts.**
 
