@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anchit Gupta</h1>
-<h3 align="center">A passionate AI (Computer Vision), DeepLearning and Data Science enthusiast from India</h3>
+<h3 align="center">A passionate AI (Computer Vision), DeepLearning and Machine Learning enthusiast from India</h3>
 <h4 align="center">(Open to job opportunities)</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchitgupta22&label=Profile%20views&color=0e75b6&style=flat" alt="anchitgupta22" /> </p>
 
