@@ -7,13 +7,13 @@
 
 - 📫 How to reach me **gupta.anchit.99@gmail.com**
 
-- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1Xu-Sg8UpNryLCClTTVULSgZHy4N2sYKz/view?usp=sharing?target=_blank)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Xu-Sg8UpNryLCClTTVULSgZHy4N2sYKz/view?usp=sharing" target="_blank">View my resume</a>
 
 - ⚡ Fun fact **I am good at sketching and digital art. I do original pieces as well as fan arts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anchit-gupta-22ag/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anchit gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anchit-gupta-22ag/" target="blank"><img align="center" src="https://img.icons8.com/android/48/4a90e2/linkedin.png" alt="anchit gupta" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
