@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anchit Gupta</h1>
-<h3 align="center">A passionate AI (Computer Vision), DeepLearning and Machine Learning enthusiast from India</h3>
+<h3 align="center">A grad student from India currently doing his Masters in Visual Computing at Saarland University</h3>
 <h4 align="center">(Open to job opportunities)</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchitgupta22&label=Profile%20views&color=0e75b6&style=flat" alt="anchitgupta22" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **gupta.anchit.99@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Xu-Sg8UpNryLCClTTVULSgZHy4N2sYKz/view?usp=sharing" target="_blank">View my resume</a>
+- 📄 Know about me <a href="https://anchitgupta22.github.io/" target="_blank">View my portfolio</a>
 
-- ⚡ Fun fact **I am good at sketching and digital art. I do original pieces as well as fan arts.**
+- ⚡ Fun fact **I am good at sketching, digital art, and 3D design. I do original pieces as well as fan art.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
