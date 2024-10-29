@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anchit Gupta</h1>
-<h3 align="center">A grad student from India currently doing his Masters in Visual Computing at Saarland University</h3>
+<h3 align="center">A grad student from India currently doing his Masters in Visual Computing at Saarland University. I am also working as a Research Assistant at DFKI, Germany.</h3>
 <h4 align="center">(Open to job opportunities)</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchitgupta22&label=Profile%20views&color=0e75b6&style=flat" alt="anchitgupta22" /> </p>
 
